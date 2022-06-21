@@ -26,7 +26,7 @@ Add some memos in My Todo List.
 ### React
 + Structure
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/94620926/174709704-71fbe417-2ebf-4818-baba-699c170b0d0a.png" alt="react-structure" width = "400" height = "200"/>
+  <img src="https://user-images.githubusercontent.com/94620926/174712709-ee247af2-d920-46dd-af68-b26154b1da8c.png" alt="react-structure" width = "550" height = "200"/>
 <p/>
 
 <a name="backend"></a>
