@@ -28,6 +28,10 @@ Add some memos in My Todo List.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/94620926/174712709-ee247af2-d920-46dd-af68-b26154b1da8c.png" alt="react-structure" width = "550" height = "200"/>
 <p/>
+### Webpack
++ bundle JavaScript files for usage in a browser
+### Babel
++ solve browser compatibility issues
 
 <a name="backend"></a>
 ## Backend Technique (Firebase Cloud Services version 9)
