@@ -4,8 +4,8 @@
 Add some memos in My Todo List.
 </h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/94620926/174640592-1007ba31-164a-4265-80d3-0844d58d5643.gif" width = "350"  height = "300" alt="pic" />
-  <img src="https://user-images.githubusercontent.com/94620926/174638335-48617a95-969d-42e0-b292-da8f5766186c.gif" width = "350" height = "300" alt="to-do-list-add" />
+  <img src="https://user-images.githubusercontent.com/94620926/174640592-1007ba31-164a-4265-80d3-0844d58d5643.gif" width = "300"  height = "250" alt="pic" />
+  <img src="https://user-images.githubusercontent.com/94620926/174638335-48617a95-969d-42e0-b292-da8f5766186c.gif" width = "300" height = "250" alt="to-do-list-add" />
 </p>
 
 # Demo
@@ -48,3 +48,4 @@ Add some memos in My Todo List.
 ## Contact
 + Chiu,Yu-Chien
 + Email：yuikuta0618@gmail.com
++ LinkedIn：[Chiu,Yu-Chien](https://www.linkedin.com/in/%E6%84%89%E8%AC%99-%E9%82%B1-853700200/)
